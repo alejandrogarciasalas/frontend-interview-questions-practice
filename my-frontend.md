@@ -31,3 +31,9 @@ const debounce = (fn, delay) => {
 https://xhr.spec.whatwg.org/
 
 ## What is a REST API?
+
+
+
+## What is the importance of schema design on contexts like GraphQL and Database design
+
+contract between server and client
